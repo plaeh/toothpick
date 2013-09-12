@@ -1,0 +1,16 @@
+body{
+
+}
+
+.sidebar{
+	padding: 135px;
+	background-color: #6CC;
+	border: 1px solid #DDD;
+	text-align: center;
+	color: #FFF;
+}	
+
+.box{
+	background-color: #6CC;
+	
+}
